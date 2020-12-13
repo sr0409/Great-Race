@@ -1,2 +1,2 @@
 # Midterm_Racing_JS
-Simple JS browser racing game 
+A simple JS browser racing game 
